@@ -4,7 +4,7 @@ Retrieving meteorological data from meteostat using REST API Calls from MS Excel
 ![meteoXL MainUI](/images/meteoXL%20on%202021-05-28_11-33-38%20masked.png)
 
 # A Brief History
-A few moons ago, somebody on ![r/vba SubReddit](https://www.reddit.com/r/vba/) asked a question on how to retrieve weather data from meteostat using curl <b>IN VBA</b>...\
+A few moons ago, somebody on [r/vba SubReddit](https://www.reddit.com/r/vba/) asked a question on how to retrieve weather data from meteostat using curl <b>IN VBA</b>...\
 I tried to help that person by researching how VBA can use curl to carry out that task...\
 
 I found that curl is now available in WIN10 after making some changes in Add/Remove windows features...\
@@ -14,4 +14,4 @@ I wrote and tested successfully some code snippets and tried to share the inform
 
 I don't like to let my efforts wasted so here we are...
 
-Kindly head over to ![Wiki](https://github.com/NLYinMaung/meteoXL/wiki)...
+Kindly head over to [Wiki](https://github.com/NLYinMaung/meteoXL/wiki)...
